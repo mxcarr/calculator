@@ -14,3 +14,4 @@ To build, simply:
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
+Badge: https://dev.azure.com/mikexcarrington0873/Sharing%20Team%20Knowledge%20using%20Azure%20Project%20Wikis/_apis/build/status/mxcarr.calculator?branchName=master
